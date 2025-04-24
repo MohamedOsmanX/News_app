@@ -11,9 +11,6 @@ A modern Flutter application that lets users browse the latest news headlines an
 - **Pull to Refresh**: Update news feed with the latest articles
 - **Web View**: Open full articles in an integrated in-app browser
 
-## Screenshots
-
-(Screenshots will be added later)
 
 ## Technologies Used
 
