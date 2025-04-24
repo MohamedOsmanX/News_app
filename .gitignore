@@ -45,5 +45,7 @@ app.*.map.json
 
 # API keys and sensitive information
 .env
-# Protect the real API configuration file
+# Protect the real API configuration file, but allow the sample
 lib/config/api_config.dart
+# Don't ignore the sample config file
+!lib/config/api_config_sample.dart
